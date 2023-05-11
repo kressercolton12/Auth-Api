@@ -12,6 +12,7 @@ flask-cors = "*"
 flask-bcrypt = "*"
 gunicorn = "*"
 psycopg = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
